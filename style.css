@@ -318,8 +318,9 @@ body{
   }
 
   .checkmark{
-      height: 20px;
-      width: 20px;
+      vertical-align: middle;
+      height: 35px;
+      width: 35px;
   }
   
   .main__btn {
@@ -515,8 +516,8 @@ body{
     }
 
     .checkmark{
-      height: 12px;
-      width: 12px;
+      height: 30px;
+      width: 30px;
   }
   
   .important{
